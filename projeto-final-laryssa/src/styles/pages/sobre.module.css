@@ -4,7 +4,7 @@
     align-items: center;
 }
 
-.bioImage{
+.bioImage {
     width: 40%;
 }
 
@@ -24,12 +24,14 @@
     color: #474a51;
 }
 
-@media (max-width: 765px){
-    .sobreContainer{
-        display:flex;
-        flex-direction:column
+
+@media (max-width: 765px) {
+    .sobreContainer {
+        display: flex;
+        flex-direction: column;
     }
-    .bioImage{
-        width:100%
+
+    .bioImage {
+        width: 100%
     }
 }
