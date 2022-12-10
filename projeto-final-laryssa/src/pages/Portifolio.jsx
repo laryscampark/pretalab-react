@@ -1,5 +1,4 @@
 import { Header } from "../components/Header";
-import portifolioImg from '../assets/portifolio.svg'
 
 export function Portifolio() {
     return (
