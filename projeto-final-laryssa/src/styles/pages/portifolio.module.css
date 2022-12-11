@@ -1,0 +1,45 @@
+.projectsTitle {
+    font-size: 4rem;
+    width: 100%;
+    color: #d180bd;
+    text-align: center;
+    padding-top: 6rem;
+}
+
+
+.projectsContainer {
+    width: 100%;
+    color: #d180bd;
+    text-align: center;
+    padding-top: 6rem;
+}
+
+.cardsRepoContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0 auto;
+    gap: 3rem;
+    padding: 2rem;
+}
+
+.cardRepo {
+    background: #d180bd;
+    width: 20%;
+    height: 230px;
+    padding: 2rem;
+    border-radius: 4px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.cardRepoText{
+    color: #fff;
+    font-size: 15px;
+}
