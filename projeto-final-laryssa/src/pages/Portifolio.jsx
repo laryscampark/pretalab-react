@@ -24,7 +24,7 @@ export function Portifolio() {
                         <a class={styles.cardLink} href="https://jogodocavaleiro.netlify.app/" target="_blank" rel="noreferrer">Ver projeto</a>
                     </div><div class={styles.card}>
                         <h1 className={styles.projectsContainer}>Meu Portfolio</h1>
-                        <img class={styles.cardImage }src="https://media.giphy.com/media/RaT2tOOlt1WPIb7sGA/giphy.gif" />
+                        <img class={styles.cardImage }src="https://media.giphy.com/media/VUpOoIMiubYJnsujSD/giphy.gif" />
                         <p className={styles.projectsContainer}>Um site em react para demonstrar meu portfolio</p>
                         <a class={styles.cardLink} href="https://portfolio-aula-react.netlify.app/" target="_blank" rel="noreferrer">Ver projeto</a>
                     </div>
