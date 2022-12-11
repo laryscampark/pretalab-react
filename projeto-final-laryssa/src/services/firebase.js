@@ -6,14 +6,14 @@ import { getDatabase } from 'firebase/database'
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: import.meta.env.VITE_API_KEY,
-  authDomain: import.meta.env.VITE_AUTH_DOMAIN,
-  databaseURL: import.meta.env.VITE_DATABASE_URL,
-  projectId: import.meta.env.VITE_PROJECT_ID,
-  storageBucket: import.meta.env.VITE_STORAGE_BUCKET,
-  messagingSenderId: import.meta.env.VITE_MESSAGING_SENDER_ID,
-  appId: import.meta.env.VITE_APP_ID
-}
+  apiKey: "AIzaSyAV_11vWVXk00wedxsvlzryXcaOjPSNi0s",
+  authDomain: "projeto-final-pretalab-laryssa.firebaseapp.com",
+  databaseURL: "https://projeto-final-pretalab-laryssa-default-rtdb.firebaseio.com",
+  projectId: "projeto-final-pretalab-laryssa",
+  storageBucket: "projeto-final-pretalab-laryssa.appspot.com",
+  messagingSenderId: "619466293233",
+  appId: "1:619466293233:web:ee670f4d827aa6988e0e50"
+};
 
 
 // Initialize Firebase
