@@ -26,7 +26,7 @@ export function Portifolio() {
                         <h1 className={styles.projectsContainer}>Meu Portfolio</h1>
                         <img class={styles.cardImage }src="https://media.giphy.com/media/VUpOoIMiubYJnsujSD/giphy.gif" />
                         <p className={styles.projectsContainer}>Um site em react para demonstrar meu portfolio</p>
-                        <a class={styles.cardLink} href="https://portfolio-aula-react.netlify.app/" target="_blank" rel="noreferrer">Ver projeto</a>
+                        <a class={styles.cardLink} href="https://pretalab-projeto-final.vercel.app/" target="_blank" rel="noreferrer">Ver projeto</a>
                     </div>
                 </div>
                 <h2 className={styles.projectsTitle}>Meus projetos no Github</h2>
