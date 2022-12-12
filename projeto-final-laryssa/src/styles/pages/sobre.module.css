@@ -19,6 +19,7 @@
 }
 
 .bioText {
+    text-align:justify;
     padding: 2rem;
     font-size: 1.2rem;
     color: #474a51;
