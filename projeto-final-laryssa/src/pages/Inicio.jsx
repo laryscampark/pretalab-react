@@ -12,17 +12,17 @@ export function Inicio() {
                 <div className={styles.cardContainer}>
                     <Student size={150} color="#d180bd" weight="thin" />
                     <h2 className={styles.cardTitle}>Vida</h2>
-                    <p className={styles.cardText}>Estudante de Sistemas de Informação na FAETERJ PARACAMBI, moro em Queimados - RJ</p>
+                    <p className={styles.cardText}>Conto um pouco sobre mim, minha formação, a minha história de carreira, gostos e curiosidades</p>
                 </div>
                 <div className={styles.cardContainer}>
                     <BracketsCurly size={150} color="#d180bd" weight="thin" />
                     <h2 className={styles.cardTitle}>Código</h2>
-                    <p className={styles.cardText}>Meus Projetos</p>
+                    <p className={styles.cardText}>Mostro meu portfólio. E outros projetos aos quais já foram desenvolvido por mim</p>
                 </div>
                 <div className={styles.cardContainer}>
                     <AddressBook size={150} color="#d180bd" weight="thin" />
                     <h2 className={styles.cardTitle}>Contato</h2>
-                    <p className={styles.cardText}>Entre em contato comigo</p>
+                    <p className={styles.cardText}>Entre em contato comigo. Pode ser para entrevista e até mesmo para trocamos ideias</p>
                 </div>
             </div>
         </>

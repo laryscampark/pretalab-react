@@ -11,7 +11,7 @@ export function Sobre() {
                 <img class={styles.bioImage} src={laryImg}/>
                 <div class={styles.bioContainer}>
                     <h2 class={styles.bioTitle}>Laryssa Peçanha, prazer!</h2>
-                    <p class={styles.bioText }>Sou queimadense, moro em Queimados, Rio de Janeiro, tenho 25 anos, sou apaixonada em tecnologia, moro com meus pais tenho 2 cachorros naomy e marley e outros dois de coração scooby e pedro scooby. Sou desenvolvedora em java. o e raça no mercado de tecnologia.
+                    <p class={styles.bioText }>Sou queimadense, moro em Queimados, Rio de Janeiro, tenho 25 anos, sou apaixonada em tecnologia, moro com meus pais tenho 2 cachorros naomy e marley e outros dois de coração scooby e pedro scooby. Sou desenvolvedora em java, atualmente estou como estágiaria na IBM.
                     </p>
                 </div>
             </div>
